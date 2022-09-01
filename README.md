@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cncolby
-- 👀 I’m interested in Ansible, Netbox, Zabbix...
+- 👀 I’m interested in Ansible, Netbox, Zabbix... Automate ALL the things!
 - 🌱 I’m currently learning Ansible, Netbox, Zabbix :D
 - 📫 How to reach me: Reddit u/packetfrack
 
